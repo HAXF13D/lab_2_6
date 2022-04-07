@@ -1,0 +1,17 @@
+{
+   "type":"array",
+   "items":{
+      "type":"object",
+      "properties":{
+         "destination":{
+            "type":"string"
+         },
+         "number":{
+            "type":"number"
+         },
+         "time":{
+            "type":"string"
+         }
+      }
+   }
+}
